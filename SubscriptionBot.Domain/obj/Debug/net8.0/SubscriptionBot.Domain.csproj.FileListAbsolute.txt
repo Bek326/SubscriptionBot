@@ -1,0 +1,11 @@
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Domain\bin\Debug\net8.0\SubscriptionBot.Domain.deps.json
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Domain\bin\Debug\net8.0\SubscriptionBot.Domain.dll
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Domain\bin\Debug\net8.0\SubscriptionBot.Domain.pdb
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Domain\obj\Debug\net8.0\SubscriptionBot.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Domain\obj\Debug\net8.0\SubscriptionBot.Domain.AssemblyInfoInputs.cache
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Domain\obj\Debug\net8.0\SubscriptionBot.Domain.AssemblyInfo.cs
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Domain\obj\Debug\net8.0\SubscriptionBot.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Domain\obj\Debug\net8.0\SubscriptionBot.Domain.dll
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Domain\obj\Debug\net8.0\refint\SubscriptionBot.Domain.dll
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Domain\obj\Debug\net8.0\SubscriptionBot.Domain.pdb
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Domain\obj\Debug\net8.0\ref\SubscriptionBot.Domain.dll

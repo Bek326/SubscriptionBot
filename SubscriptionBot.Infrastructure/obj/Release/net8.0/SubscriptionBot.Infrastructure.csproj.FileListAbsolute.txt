@@ -1,0 +1,17 @@
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\bin\Release\net8.0\SubscriptionBot.Infrastructure.deps.json
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\bin\Release\net8.0\SubscriptionBot.Infrastructure.runtimeconfig.json
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\bin\Release\net8.0\SubscriptionBot.Infrastructure.dll
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\bin\Release\net8.0\SubscriptionBot.Infrastructure.pdb
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\bin\Release\net8.0\SubscriptionBot.Domain.dll
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\bin\Release\net8.0\SubscriptionBot.Domain.pdb
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\obj\Release\net8.0\SubscriptionBot.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\obj\Release\net8.0\SubscriptionBot.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\obj\Release\net8.0\SubscriptionBot.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\obj\Release\net8.0\SubscriptionBot.Infrastructure.AssemblyInfo.cs
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\obj\Release\net8.0\SubscriptionBot.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\obj\Release\net8.0\Subscrip.3343D734.Up2Date
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\obj\Release\net8.0\SubscriptionBot.Infrastructure.dll
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\obj\Release\net8.0\refint\SubscriptionBot.Infrastructure.dll
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\obj\Release\net8.0\SubscriptionBot.Infrastructure.pdb
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\obj\Release\net8.0\SubscriptionBot.Infrastructure.genruntimeconfig.cache
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Infrastructure\obj\Release\net8.0\ref\SubscriptionBot.Infrastructure.dll

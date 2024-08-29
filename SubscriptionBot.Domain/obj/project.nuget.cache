@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "smJieiGzn+adAoyXRYb3JVRgjnR1kX/fEbl55tiOo/4pSH1KGz/Ly10iDw6u2oE+DoK9EuHHctKCwf1yGqWxMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Бексултан\\RiderProjects\\SubscriptionBot\\SubscriptionBot.Domain\\SubscriptionBot.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Бексултан\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}

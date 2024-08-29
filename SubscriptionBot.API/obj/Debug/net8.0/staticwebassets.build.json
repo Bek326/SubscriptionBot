@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "smD1Fy7FfF6+ccvIpJ1hFp7Co+MnGSU2ql1iTf7fhoU=",
+  "Source": "SubscriptionBot.API",
+  "BasePath": "_content/SubscriptionBot.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

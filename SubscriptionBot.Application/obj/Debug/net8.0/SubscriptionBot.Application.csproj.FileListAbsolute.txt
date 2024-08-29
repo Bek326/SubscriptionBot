@@ -1,0 +1,17 @@
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\bin\Debug\net8.0\SubscriptionBot.Application.deps.json
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\bin\Debug\net8.0\SubscriptionBot.Application.dll
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\bin\Debug\net8.0\SubscriptionBot.Application.pdb
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\obj\Debug\net8.0\SubscriptionBot.Application.csproj.AssemblyReference.cache
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\obj\Debug\net8.0\SubscriptionBot.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\obj\Debug\net8.0\SubscriptionBot.Application.AssemblyInfoInputs.cache
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\obj\Debug\net8.0\SubscriptionBot.Application.AssemblyInfo.cs
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\obj\Debug\net8.0\SubscriptionBot.Application.csproj.CoreCompileInputs.cache
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\obj\Debug\net8.0\SubscriptionBot.Application.dll
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\obj\Debug\net8.0\refint\SubscriptionBot.Application.dll
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\obj\Debug\net8.0\SubscriptionBot.Application.pdb
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\obj\Debug\net8.0\ref\SubscriptionBot.Application.dll
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\bin\Debug\net8.0\SubscriptionBot.Domain.dll
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\bin\Debug\net8.0\SubscriptionBot.Domain.pdb
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\obj\Debug\net8.0\Subscrip.42B3E88B.Up2Date
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\bin\Debug\net8.0\SubscriptionBot.Application.runtimeconfig.json
+C:\Users\Бексултан\RiderProjects\SubscriptionBot\SubscriptionBot.Application\obj\Debug\net8.0\SubscriptionBot.Application.genruntimeconfig.cache

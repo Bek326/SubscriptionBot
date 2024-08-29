@@ -1,25 +1,95 @@
-# SubscriptionBot Project
+SubscriptionBot
+Описание проекта
+SubscriptionBot — это Telegram-бот, предназначенный для управления подписками на различные сервисы. Проект написан на .NET 8 с использованием архитектурных подходов DDD (Domain-Driven Design) и Clean Architecture. Бот взаимодействует с базой данных, предоставляет REST API и поддерживает тестирование.
 
-SubscriptionBot is a .NET 8.0 application that manages subscriptions to various services. This project includes the domain layer, application layer, infrastructure layer, and unit tests using xUnit. The application is packaged using Docker for easy deployment.
+Структура проекта
+Проект состоит из следующих частей:
 
-## Features
+SubscriptionBot.API: Основное веб-приложение, предоставляющее API и управление ботом.
+SubscriptionBot.Application: Слой логики приложения, содержащий основные бизнес-процессы и сервисы.
+SubscriptionBot.Domain: Доменные сущности и интерфейсы, которые определяют основную бизнес-логику.
+SubscriptionBot.Infrastructure: Слой инфраструктуры, включающий реализацию доступа к данным, интеграции с внешними сервисами и другие инфраструктурные детали.
+SubscriptionBot.Tests: Набор тестов для проверки логики приложения и доменных сущностей.
+Установка и запуск
+Предварительные требования
+Для запуска проекта вам потребуется:
 
-- Manage subscriptions, services, and pricing options
-- Unit tests with xUnit
-- Packaged with Docker for easy deployment
+Docker: Убедитесь, что Docker установлен и запущен на вашем компьютере.
+.NET 8 SDK: Для разработки и тестирования.
+Git: Для клонирования репозитория.
+Клонирование репозитория
+Склонируйте репозиторий на свой локальный компьютер:
 
-## Requirements
+Копировать код
+git clone https://github.com/your-username/SubscriptionBot.git
+cd SubscriptionBot
+Сборка и запуск с помощью Docker
+Создайте Docker образы и запустите контейнеры:
 
-- .NET 8.0 SDK
-- Docker
+В корневой директории проекта выполните команду:
 
-## Getting Started
+Копировать код
+docker-compose up --build
+Это создаст образы и запустит контейнеры для всех приложений, описанных в docker-compose.yml.
 
-### Building and Running with Docker
+Остановка контейнеров:
 
-1. **Clone the repository:**
+Для остановки всех контейнеров выполните команду:
 
-   ```sh
-   git clone https://github.com/your-repository/subscriptionbot.git
-   cd subscriptionbot
+Копировать код
+docker-compose down
+Локальная разработка
+Если вы хотите разрабатывать и тестировать проект локально без Docker, следуйте инструкциям ниже:
 
+Восстановите зависимости:
+
+Для каждого проекта в решении выполните команду:
+
+Копировать код
+dotnet restore
+Сборка проекта:
+
+Для сборки проекта выполните команду:
+
+Копировать код
+dotnet build
+Запуск проекта:
+
+Для запуска основного веб-приложения (API) выполните команду:
+
+Копировать код
+dotnet run --project SubscriptionBot.API/SubscriptionBot.API.csproj
+Запуск тестов:
+
+Чтобы запустить все тесты, выполните команду:
+
+Копировать код
+dotnet test
+Использование
+Доступ к API
+После запуска API будет доступен по адресу http://localhost:8080. Используйте инструменты вроде Postman или curl для отправки запросов и взаимодействия с ботом.
+
+Переменные среды
+Проект поддерживает переменные среды, которые можно настроить в файле .env или напрямую в docker-compose.yml. Примеры переменных:
+
+ASPNETCORE_ENVIRONMENT=Development
+ConnectionStrings__DefaultConnection=...
+Swagger
+Для просмотра и тестирования API используйте встроенный Swagger, доступный по адресу:
+
+Копировать код
+http://localhost:8080/swagger
+Дополнительная информация
+Архитектура
+Проект построен с использованием принципов Clean Architecture, что означает разделение ответственности между слоями и инверсию зависимости. Это облегчает тестирование и поддержку кода.
+
+Тестирование
+В проекте реализованы юнит-тесты для слоя доменной логики и бизнес-сервисов. Тесты находятся в проекте SubscriptionBot.Tests.
+
+Контейнеризация
+Проект полностью контейнеризован с использованием Docker. Каждый сервис запускается в своем контейнере, что упрощает управление зависимостями и развертывание.
+
+Ссылки
+Документация ASP.NET Core
+Docker Documentation
+Telegram Bot API
